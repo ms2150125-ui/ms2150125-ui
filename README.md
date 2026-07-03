@@ -9,7 +9,7 @@
   <!-- সোশ্যাল মিডিয়ার মডার্ন মিনিমাল ব্যাজ -->
 <p align="center">
   <a href="https://linkedin.com/in/Md.Sayeed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.facebook.com/share/18QZQ7iWZU/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
+  <a href="[https://www.facebook.com/share/18QZQ7iWZU/](https://www.facebook.com/profile.php?id=100078737719754)" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://instagram.com/muhammad_sayeed21" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:ms2150125@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
