@@ -1,80 +1,125 @@
 <div align="center">
-  
-  <!-- টাইপিং অ্যানিমেশন সহ সুন্দর হেডিং -->
-  <h1>👋 Hi, I'm Md. Abu Sayeed</h1>
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=AI+Engineer+In+Training;Full-Stack+Web+Developer;Mobile+App+Developer+(Flutter)" alt="Typing SVG" />
-  </p>
 
-  <!-- সোশ্যাল মিডিয়ার মডার্ন মিনিমাল ব্যাজ -->
-<p align="center">
-  <a href="https://linkedin.com/in/Md.Sayeed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="[https://www.facebook.com/share/18QZQ7iWZU/](https://www.facebook.com/profile.php?id=100078737719754)" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://instagram.com/muhammad_sayeed21" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:ms2150125@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00c6ff&height=250&section=header&text=Md.%20Abu%20Sayeed&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Building%20at%20the%20intersection%20of%20AI%20%26%20Software&descAlignY=58&descSize=17" width="100%"/>
 
-  <!-- প্রোফাইল ভিজিটর কাউন্টার -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ms2150125-ui&label=PROFILE+VIEWS&color=0077B5&style=flat-square" alt="Views" />
-  </p>
 </div>
 
----
+<br/>
 
-## 💫 About Me
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h4>🚀 Current Focus & Goals</h4>
-      <ul>
-        <li>🔭 <b>Working on:</b> Advanced AI Integration & Modern Web Applications.</li>
-        <li>🌱 <b>Learning:</b> AI Engineering, Deep Learning, LLMs, and Cyber Security.</li>
-        <li>👯 <b>Collaboration:</b> Looking to contribute to meaningful Open Source Projects.</li>
-        <li>🤝 <b>Seeking Help:</b> Cloud Deployment pipelines and Large Language Model fine-tuning.</li>
-      </ul>
-      <h4>⚡ Fun Fact</h4>
-      <blockquote>
-        "Consistency beats talent, every single day." 🔥
-      </blockquote>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <!-- আপনার প্রোফাইলে একটি সুন্দর কোডিং অ্যানিমেশন লটি বা ইমেজ -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9sc3N3N3Z5dGoxN2s4bWpjeHh5OHd5OHd5OHd5OHd5OHd5OHd5JnB0PU1hZ2ljLw/3p50WGyUqhU52/giphy.gif" width="180px" alt="Coding">
-    </td>
-  </tr>
+## 🧑‍💻 Hey, I'm Sayeed
+
+I build things at the intersection of **software** and **artificial intelligence** — from clean web interfaces to systems that learn. Currently deep in AI engineering, chasing consistency over shortcuts.
+
+```python
+class Sayeed:
+    def __init__(self):
+        self.role = "AI Engineer in Training"
+        self.stack = ["Python", "Java", "C/C++", "JS"]
+        self.focus = "AI • Deep Learning • LLMs • Cyber Security"
+        self.mindset = "Consistency beats talent, every single day."
+
+    def collaborate(self):
+        return "always open 🤝"
+```
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=420&lines=AI+Engineer+In+Training;Full-Stack+Web+Developer;Flutter+%7C+Mobile+Developer;Open-Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG"/>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/Md.Sayeed" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100078737719754" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+<a href="https://instagram.com/muhammad_sayeed21" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="mailto:ms2150125@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ms2150125-ui&label=PROFILE+VIEWS&color=00C6FF&style=flat-square"/>
+
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-## 💻 Tech Stack & Tools
+## 🎯 What I'm Into Right Now
 
-### 🧠 Artificial Intelligence & Core Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<table width="100%">
+<tr>
+<td width="25%" align="center">
 
-### 🌐 Frontend Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+**🔭 Building**
+<br/>
+AI-powered web apps
 
-### 🛠️ Version Control & Productivity
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</td>
+<td width="25%" align="center">
 
----
+**🌱 Learning**
+<br/>
+LLMs & Deep Learning
 
-## 📊 GitHub Analytics
+</td>
+<td width="25%" align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ms2150125-ui&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" height="180px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ms2150125-ui&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180px" alt="Top Languages" />
-</p>
+**👯 Open to**
+<br/>
+Open-source collabs
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ms2150125-ui&theme=tokyonight&hide_border=false" width="100%" alt="GitHub Streak" />
-</p>
+</td>
+<td width="25%" align="center">
+
+**🤝 Need help with**
+<br/>
+Cloud + model fine-tuning
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,bootstrap,git,github&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=ms2150125-ui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ms2150125-ui&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=c9d1d9" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ms2150125-ui&theme=radical&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ms2150125-ui&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C6FF&line=00C6FF&point=ffffff" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 Let's build something together
+
+*Open to conversations about AI, code, or just good ideas over coffee.* ☕
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2C5364,100:0F2027&height=150&section=footer" width="100%"/>
+
+</div>
